@@ -1,0 +1,11 @@
+Number of global variables with multiple references: 8
+
+Names of these variables: 
+"SandwichBar::numItems"
+"dice"
+"vtable for ComplexIngredient"
+"vtable for ComplexRecipe"
+"vtable for Food"
+"vtable for Ingredient"
+"vtable for Recipe"
+"vtable for SimpleIngredient"
